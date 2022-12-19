@@ -25,6 +25,6 @@ for item in numbers:
 
 i = 0
 while i < len(numbers):
-    print(numbers[i])
+    print(numbers[i], end=',')
     i = i + 1
     

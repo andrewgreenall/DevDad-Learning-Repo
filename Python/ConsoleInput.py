@@ -8,3 +8,5 @@ SECOND_NUMBER = input("please enter the number to add:")
 ANSWER = int(FIRST_NUMBER) + int(SECOND_NUMBER)
 
 print("you want to add ", FIRST_NUMBER, " to ", SECOND_NUMBER, " equals ", ANSWER)
+
+print(f'This is a formatted string with a variable {ANSWER}')
