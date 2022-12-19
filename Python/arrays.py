@@ -1,3 +1,5 @@
+"""Array file"""
+
 names = ['Andrew', 'Dad', 'John', 'Jack']
 # display orginal list
 print(names)
